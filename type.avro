@@ -1,0 +1,11 @@
+{
+  "namespace": "some.namespace",
+  "type": "record",
+  "name": "ATypeInNamespace",
+  "fields": [
+    {
+      "name": "property",
+      "type": "string"
+    }
+  ]
+}

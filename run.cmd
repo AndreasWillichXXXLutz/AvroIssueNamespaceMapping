@@ -1,0 +1,1 @@
+dotnet avrogen -s .\type.avro .\output --namespace some.namespace:A.DotNET.Namespace
